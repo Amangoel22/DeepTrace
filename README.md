@@ -66,4 +66,4 @@ Core detection pipeline is functional. Frontend UI tweaks and user authenticatio
 ## Author
 
 **Aman Goel**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/Amangoel22)
+[LinkedIn](https://www.linkedin.com/in/aman-goel2203/) · [GitHub](https://github.com/Amangoel22)
