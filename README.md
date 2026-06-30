@@ -1,3 +1,5 @@
+## DEEPTRACE IS UNDER REVAMP.
+
 # DeepTrace
 
 A deepfake video detection system that analyses video content frame-by-frame, flags manipulated segments, and explains *why* each section was detected as suspicious — making the detection interpretable rather than a black-box output.
